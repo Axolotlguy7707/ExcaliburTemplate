@@ -1,3 +1,3 @@
 # ExcaliburJS Template
 
-A Template with Vite + Typescript and ExcaliburJS
+A Template with Vite + Typescript + ExcaliburJS
